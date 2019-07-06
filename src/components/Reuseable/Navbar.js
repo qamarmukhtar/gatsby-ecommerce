@@ -25,7 +25,7 @@ export default class Navbar extends Component {
             {
                 id:1,
                 text:"Contact",
-                url:"/",
+                url:"/contact/",
             },
         ]
     }
