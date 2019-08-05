@@ -44,7 +44,7 @@ export const query = graphql `{
         }
         image{
           fixed(width:100,height:120 ){
-            src
+            ...GatsbyContentfulFixed_tracedSVG
             
           }
         }
