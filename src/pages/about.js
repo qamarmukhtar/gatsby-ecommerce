@@ -8,17 +8,19 @@ import Infoblock from'../components/Reuseable/Infoblock'
 import Dualinfoblock from'../components/Reuseable/Dualinfoblock'
 import Teamphotosection from'../components/About/Teamphotosection'
 
+
 const AboutPage = ({data}) => (
   <Layout>
-    <SEO title="Home" />
+    <SEO title="About" />
     <HeroSection
     img={data.img.childImageSharp.fluid}
       title="i write code "
       subtitle="learncode online tech qamar"
       heroclass="about-background"
     />
-    <Dualinfoblock heading="our project"/>
-    <Infoblock heading="About Us" />
+    <Dualinfoblock heading="Our project"/>
+    <Infoblock heading="Our Team" />
+    
     <Teamphotosection/>
     
   </Layout>

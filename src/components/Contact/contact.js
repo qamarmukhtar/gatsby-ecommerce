@@ -4,7 +4,7 @@ import Heading from '../Reuseable/Heading'
 export default function Contact() {
     return (
         <section className="py-3">
-        <Heading title="Contact Us" />
+        <Heading title="" />
         <div className="col-10 col-sm-8 mx-auto">
             <form action="https://formspree.io/qumerm1@gmail.com" method="POST">
                 <div className="form-group">

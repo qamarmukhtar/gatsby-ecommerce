@@ -7,13 +7,13 @@ export default function Infoblock({heading}) {
           <div className="container">
             <Heading title={heading }/>
             <div className="col-10 ol-sm-8 mx-auto text-center">
-                <p className="lead text=white mb-4">
+                {/* <p className="lead text=white mb-4">
                     Tech QAMAR
                 </p>
                 <Link to="/about/">
                 <button className="btn btn-warning btn=lg">{heading}</button>
 
-                </Link>
+                </Link> */}
             </div>
           </div>  
         </section>

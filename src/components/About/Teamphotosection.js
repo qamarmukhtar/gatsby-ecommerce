@@ -16,7 +16,7 @@ export default function Teamphotosection() {
     <img src="https://images.pexels.com/photos/1181677/pexels-photo-1181677.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" class="card-img-top" alt="..."/>
     <div class="card-body">
       <h5 class="card-title">Nadeem jamadar</h5>
-      <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+      <p class="card-text">Hr at KriSemiconductors Hiring VLSI and IT Engineers .</p>
       <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
     </div>
   </div>
@@ -24,7 +24,7 @@ export default function Teamphotosection() {
     <img src="https://images.pexels.com/photos/574077/pexels-photo-574077.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" class="card-img-top" alt="..."/>
     <div class="card-body">
       <h5 class="card-title">Abdul Khadar</h5>
-      <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
+      <p class="card-text">providing all IT solution to the requirment based on customer Ex Smart class, CCTV instalation Networking ,Telecom Internetwork.</p>
       <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
     </div>
   </div>

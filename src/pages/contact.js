@@ -9,7 +9,7 @@ import Contact from '../components/Contact/contact'
 
 const ContactPage = ({data}) => (
   <Layout>
-    <SEO title="Home" />
+    <SEO title="Contact" />
     <HeroSection
     img={data.img.childImageSharp.fluid}
       title="Contact Us "

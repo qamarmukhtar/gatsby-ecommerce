@@ -13,14 +13,14 @@ const IndexPage = ({data}) => (
     <SEO title="Home" />
     <HeroSection
     img={data.img.childImageSharp.fluid}
-      title="i write code "
-      subtitle="learncode online tech qamar"
+      title="I write code "
+      subtitle="Learncode online with tech qamar"
       heroclass="hero-background"
     />
-    <Infoblock heading="About Us" />
+    {/* <Infoblock heading="About Us" /> */}
     <Coursecart courses={data.courses} />
 
-    <Dualinfoblock heading="our project"/>
+    <Dualinfoblock heading="Our project"/>
   </Layout>
 )
 export const query = graphql `{
